@@ -1,0 +1,56 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  background-color: #26e5ff;
+  text-align: left;
+}
+
+header li {
+  display: inline-block;
+  text-align: center
+}
+
+h2{
+  text-align: center;
+}
+
+.main {
+  background: url('../../images/park.jpg') no-repeat;
+  background-size: cover
+}
+
+.main img {
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.main button {
+  display: center
+}
+
+.three_across {
+  width: 30%;
+display: inline-block;
+text-align: center;
+vertical-align: top;
+margin: 0 10px;
+}
+
+.dogs img {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin: 25px 0;
+}
+
+.dogs button {
+  align-items: center
+}
+
+footer {
+  background-color: #455a93;
+  text-align: center
+}
